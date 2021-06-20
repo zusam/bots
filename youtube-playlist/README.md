@@ -1,7 +1,7 @@
 Youtube-playlist
 ================
 
-![youtube logo](avatar.png)  
+<img src="avatar.png" width="150px"/>
 
 This bot will relay new videos from a youtube playlist.  
 This can be used to relay videos from a youtube channel via their upload's playlist (You can get the id of such a playlist with the request `https://www.googleapis.com/youtube/v3/channels?part=contentDetails&forUsername=<channel_name>&key=<api_key>`).  

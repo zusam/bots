@@ -1,7 +1,7 @@
 Reddit
 ======
 
-![reddit logo](avatar.png)  
+<img src="avatar.png" width="150px"/>
 
 This bot will post the first entry in the reddit rss feed given as `url`.  
 This comes handy to post the top weekly of a subreddit for example (like https://www.reddit.com/r/worldnews/top.rss?t=weekly&sort=top).

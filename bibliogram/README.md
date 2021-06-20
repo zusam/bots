@@ -1,7 +1,7 @@
 Bibliogram
 ==========
 
-![bibliogram logo](avatar.png)  
+<img src="avatar.png" width="150px"/>
 
 This bot will relay posts of an instagram user using a chosen Bibliogram instance.
 You'll need to choose an instance in [this list](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) and put the URL as value for `instance`. You'll also need to fill up the `profile` with the profile id of the user you want to get the posts.

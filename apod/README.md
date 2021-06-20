@@ -1,7 +1,7 @@
 APOD
 ====
 
-![nasa logo](avatar.png)  
+<img src="avatar.png" width="150px"/>
 
 This bot will post the astronomy picture of the day from https://apod.nasa.gov with explanations as the message's text.  
 For it to work, you'll need an API key that you can get from [here](https://api.nasa.gov/). Put it as value of `apod_api_key` in the `memory.json` file.
