@@ -24,7 +24,7 @@ if (
   in_array($url, $memory["last_posted"])
   || empty($url)
   || empty($title)
-  || empty($apod_data["explanation"]
+  || empty($apod_data["explanation"])
 ) {
   return;
 }
